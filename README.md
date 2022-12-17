@@ -3,5 +3,7 @@ A comprehensive data science project for analysing eCormmerce and online shops d
 
 
 # Youtube
-[![Watch the video]](https://youtu.be/T-D1KVIuvjA)
+
+https://user-images.githubusercontent.com/79936608/208234972-a50cb6f1-bcbf-4bb6-a99e-b5af50c39497.mp4
+
 
