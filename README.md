@@ -3,4 +3,4 @@ A comprehensive data science project for analysing eCormmerce and online shops d
 
 
 # Youtube
-https://github.com/Simon-157/AI-final-project.git
+https://youtu.be/md1uX_jtp2g
